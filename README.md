@@ -1,11 +1,3 @@
 # cs320-lab2
-sdfsadfasdfsad
-dfasdfsdf
+refresh
 
-asdfasdf
-sdfgsdfsdfsdfsdf
-
-
-sadfasdfasdf
-
-adsfdsf
